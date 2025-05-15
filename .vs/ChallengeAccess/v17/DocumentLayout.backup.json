@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{42D5BAF0-B3AD-4FEA-81E0-8CADF30D9C32}|HotelAvailabilityCli.Tests\\HotelAvailabilityCli.Tests.csproj|c:\\users\\elvis\\desktop\\dataengineering\\challengeaccess\\hotelavailabilitycli.tests\\tests\\availabilityservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D5BAF0-B3AD-4FEA-81E0-8CADF30D9C32}|HotelAvailabilityCli.Tests\\HotelAvailabilityCli.Tests.csproj|solutionrelative:hotelavailabilitycli.tests\\tests\\availabilityservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D5BAF0-B3AD-4FEA-81E0-8CADF30D9C32}|HotelAvailabilityCli.Tests\\HotelAvailabilityCli.Tests.csproj|c:\\users\\elvis\\desktop\\dataengineering\\challengeaccess\\hotelavailabilitycli.tests\\tests\\searchservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D5BAF0-B3AD-4FEA-81E0-8CADF30D9C32}|HotelAvailabilityCli.Tests\\HotelAvailabilityCli.Tests.csproj|solutionrelative:hotelavailabilitycli.tests\\tests\\searchservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F52775-DEC9-4B64-84D8-EB289155A49E}|ChallengeAccess\\ChallengeAccess.csproj|c:\\users\\elvis\\desktop\\dataengineering\\challengeaccess\\challengeaccess\\services\\availabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F52775-DEC9-4B64-84D8-EB289155A49E}|ChallengeAccess\\ChallengeAccess.csproj|solutionrelative:challengeaccess\\services\\availabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72F52775-DEC9-4B64-84D8-EB289155A49E}|ChallengeAccess\\ChallengeAccess.csproj|c:\\users\\elvis\\desktop\\dataengineering\\challengeaccess\\challengeaccess\\bookings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{72F52775-DEC9-4B64-84D8-EB289155A49E}|ChallengeAccess\\ChallengeAccess.csproj|solutionrelative:challengeaccess\\bookings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -15,32 +27,36 @@
       "RelativeMoniker": "D:0:0:{72F52775-DEC9-4B64-84D8-EB289155A49E}|ChallengeAccess\\ChallengeAccess.csproj|solutionrelative:challengeaccess\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72F52775-DEC9-4B64-84D8-EB289155A49E}|ChallengeAccess\\ChallengeAccess.csproj|c:\\users\\elvis\\desktop\\dataengineering\\challengeaccess\\challengeaccess\\services\\availabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72F52775-DEC9-4B64-84D8-EB289155A49E}|ChallengeAccess\\ChallengeAccess.csproj|solutionrelative:challengeaccess\\services\\availabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42D5BAF0-B3AD-4FEA-81E0-8CADF30D9C32}|HotelAvailabilityCli.Tests\\HotelAvailabilityCli.Tests.csproj|c:\\users\\elvis\\desktop\\dataengineering\\challengeaccess\\hotelavailabilitycli.tests\\hotelavailabilitycli.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42D5BAF0-B3AD-4FEA-81E0-8CADF30D9C32}|HotelAvailabilityCli.Tests\\HotelAvailabilityCli.Tests.csproj|solutionrelative:hotelavailabilitycli.tests\\hotelavailabilitycli.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72F52775-DEC9-4B64-84D8-EB289155A49E}|ChallengeAccess\\ChallengeAccess.csproj|c:\\users\\elvis\\desktop\\dataengineering\\challengeaccess\\challengeaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72F52775-DEC9-4B64-84D8-EB289155A49E}|ChallengeAccess\\ChallengeAccess.csproj|solutionrelative:challengeaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72F52775-DEC9-4B64-84D8-EB289155A49E}|ChallengeAccess\\ChallengeAccess.csproj|c:\\users\\elvis\\desktop\\dataengineering\\challengeaccess\\challengeaccess\\challengeaccess.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{72F52775-DEC9-4B64-84D8-EB289155A49E}|ChallengeAccess\\ChallengeAccess.csproj|solutionrelative:challengeaccess\\challengeaccess.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{72F52775-DEC9-4B64-84D8-EB289155A49E}|ChallengeAccess\\ChallengeAccess.csproj|c:\\users\\elvis\\desktop\\dataengineering\\challengeaccess\\challengeaccess\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72F52775-DEC9-4B64-84D8-EB289155A49E}|ChallengeAccess\\ChallengeAccess.csproj|solutionrelative:challengeaccess\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F52775-DEC9-4B64-84D8-EB289155A49E}|ChallengeAccess\\ChallengeAccess.csproj|c:\\users\\elvis\\desktop\\dataengineering\\challengeaccess\\challengeaccess\\services\\commandparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F52775-DEC9-4B64-84D8-EB289155A49E}|ChallengeAccess\\ChallengeAccess.csproj|solutionrelative:challengeaccess\\services\\commandparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F52775-DEC9-4B64-84D8-EB289155A49E}|ChallengeAccess\\ChallengeAccess.csproj|c:\\users\\elvis\\desktop\\dataengineering\\challengeaccess\\challengeaccess\\challengeaccess.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{72F52775-DEC9-4B64-84D8-EB289155A49E}|ChallengeAccess\\ChallengeAccess.csproj|solutionrelative:challengeaccess\\challengeaccess.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72F52775-DEC9-4B64-84D8-EB289155A49E}|ChallengeAccess\\ChallengeAccess.csproj|c:\\users\\elvis\\desktop\\dataengineering\\challengeaccess\\challengeaccess\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72F52775-DEC9-4B64-84D8-EB289155A49E}|ChallengeAccess\\ChallengeAccess.csproj|solutionrelative:challengeaccess\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72F52775-DEC9-4B64-84D8-EB289155A49E}|ChallengeAccess\\ChallengeAccess.csproj|c:\\users\\elvis\\desktop\\dataengineering\\challengeaccess\\challengeaccess\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72F52775-DEC9-4B64-84D8-EB289155A49E}|ChallengeAccess\\ChallengeAccess.csproj|solutionrelative:challengeaccess\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{72F52775-DEC9-4B64-84D8-EB289155A49E}|ChallengeAccess\\ChallengeAccess.csproj|c:\\users\\elvis\\desktop\\dataengineering\\challengeaccess\\challengeaccess\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72F52775-DEC9-4B64-84D8-EB289155A49E}|ChallengeAccess\\ChallengeAccess.csproj|solutionrelative:challengeaccess\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F52775-DEC9-4B64-84D8-EB289155A49E}|ChallengeAccess\\ChallengeAccess.csproj|c:\\users\\elvis\\desktop\\dataengineering\\challengeaccess\\challengeaccess\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F52775-DEC9-4B64-84D8-EB289155A49E}|ChallengeAccess\\ChallengeAccess.csproj|solutionrelative:challengeaccess\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,59 +74,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SearchService.cs",
-              "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\Services\\SearchService.cs",
-              "RelativeDocumentMoniker": "ChallengeAccess\\Services\\SearchService.cs",
-              "ToolTip": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\Services\\SearchService.cs",
-              "RelativeToolTip": "ChallengeAccess\\Services\\SearchService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwCEAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AvailabilityServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\HotelAvailabilityCli.Tests\\Tests\\AvailabilityServiceTests.cs",
+              "RelativeDocumentMoniker": "HotelAvailabilityCli.Tests\\Tests\\AvailabilityServiceTests.cs",
+              "ToolTip": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\HotelAvailabilityCli.Tests\\Tests\\AvailabilityServiceTests.cs",
+              "RelativeToolTip": "HotelAvailabilityCli.Tests\\Tests\\AvailabilityServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T18:49:39.003Z",
+              "WhenOpened": "2025-05-15T10:19:45.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "SearchServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\HotelAvailabilityCli.Tests\\Tests\\SearchServiceTests.cs",
+              "RelativeDocumentMoniker": "HotelAvailabilityCli.Tests\\Tests\\SearchServiceTests.cs",
+              "ToolTip": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\HotelAvailabilityCli.Tests\\Tests\\SearchServiceTests.cs",
+              "RelativeToolTip": "HotelAvailabilityCli.Tests\\Tests\\SearchServiceTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:20:05.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "hotels.json",
+              "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\hotels.json",
+              "RelativeDocumentMoniker": "ChallengeAccess\\hotels.json",
+              "ToolTip": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\hotels.json",
+              "RelativeToolTip": "ChallengeAccess\\hotels.json",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T18:39:36.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "bookings.json",
               "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\bookings.json",
               "RelativeDocumentMoniker": "ChallengeAccess\\bookings.json",
               "ToolTip": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\bookings.json",
               "RelativeToolTip": "ChallengeAccess\\bookings.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-14T18:42:55.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\Program.cs",
-              "RelativeDocumentMoniker": "ChallengeAccess\\Program.cs",
-              "ToolTip": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\Program.cs",
-              "RelativeToolTip": "ChallengeAccess\\Program.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAkwHoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T18:22:35.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AvailabilityService.cs",
-              "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\Services\\AvailabilityService.cs",
-              "RelativeDocumentMoniker": "ChallengeAccess\\Services\\AvailabilityService.cs",
-              "ToolTip": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\Services\\AvailabilityService.cs",
-              "RelativeToolTip": "ChallengeAccess\\Services\\AvailabilityService.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwCsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T18:49:23.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "RoomType.cs",
               "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\Models\\RoomType.cs",
               "RelativeDocumentMoniker": "ChallengeAccess\\Models\\RoomType.cs",
@@ -122,7 +138,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
+              "Title": "AvailabilityService.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\Services\\AvailabilityService.cs",
+              "RelativeDocumentMoniker": "ChallengeAccess\\Services\\AvailabilityService.cs",
+              "ToolTip": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\Services\\AvailabilityService.cs",
+              "RelativeToolTip": "ChallengeAccess\\Services\\AvailabilityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T18:49:23.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommandParser.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\Services\\CommandParser.cs",
+              "RelativeDocumentMoniker": "ChallengeAccess\\Services\\CommandParser.cs",
+              "ToolTip": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\Services\\CommandParser.cs",
+              "RelativeToolTip": "ChallengeAccess\\Services\\CommandParser.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:51:19.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\Program.cs",
+              "RelativeDocumentMoniker": "ChallengeAccess\\Program.cs",
+              "ToolTip": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\Program.cs",
+              "RelativeToolTip": "ChallengeAccess\\Program.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAQwH8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:22:35.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SearchService.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\Services\\SearchService.cs",
+              "RelativeDocumentMoniker": "ChallengeAccess\\Services\\SearchService.cs",
+              "ToolTip": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\Services\\SearchService.cs",
+              "RelativeToolTip": "ChallengeAccess\\Services\\SearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T18:49:39.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HotelAvailabilityCli.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\HotelAvailabilityCli.Tests\\HotelAvailabilityCli.Tests.csproj",
+              "RelativeDocumentMoniker": "HotelAvailabilityCli.Tests\\HotelAvailabilityCli.Tests.csproj",
+              "ToolTip": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\HotelAvailabilityCli.Tests\\HotelAvailabilityCli.Tests.csproj",
+              "RelativeToolTip": "HotelAvailabilityCli.Tests\\HotelAvailabilityCli.Tests.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T10:14:09.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Room.cs",
               "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\Models\\Room.cs",
               "RelativeDocumentMoniker": "ChallengeAccess\\Models\\Room.cs",
@@ -134,44 +213,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Hotel.cs",
               "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\Models\\Hotel.cs",
               "RelativeDocumentMoniker": "ChallengeAccess\\Models\\Hotel.cs",
               "ToolTip": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\Models\\Hotel.cs",
               "RelativeToolTip": "ChallengeAccess\\Models\\Hotel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T18:46:43.952Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\Models\\Booking.cs",
               "RelativeDocumentMoniker": "ChallengeAccess\\Models\\Booking.cs",
               "ToolTip": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\Models\\Booking.cs",
               "RelativeToolTip": "ChallengeAccess\\Models\\Booking.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T18:47:10.485Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "hotels.json",
-              "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\hotels.json",
-              "RelativeDocumentMoniker": "ChallengeAccess\\hotels.json",
-              "ToolTip": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\hotels.json",
-              "RelativeToolTip": "ChallengeAccess\\hotels.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-14T18:39:36.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "ChallengeAccess",
               "DocumentMoniker": "C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\ChallengeAccess.csproj",
               "RelativeDocumentMoniker": "ChallengeAccess\\ChallengeAccess.csproj",

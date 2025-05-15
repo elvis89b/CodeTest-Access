@@ -12,3 +12,11 @@ C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\obj\Debug
 C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\obj\Debug\net8.0\ChallengeAccess.pdb
 C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\obj\Debug\net8.0\ChallengeAccess.genruntimeconfig.cache
 C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\obj\Debug\net8.0\ref\ChallengeAccess.dll
+C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\obj\Debug\net8.0\ChallengeAccess.sourcelink.json
+C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\bin\Debug\net8.0\FluentAssertions.dll
+C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\bin\Debug\net8.0\xunit.core.dll
+C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\bin\Debug\net8.0\xunit.execution.dotnet.dll
+C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\obj\Debug\net8.0\ChallengeAccess.csproj.AssemblyReference.cache
+C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\obj\Debug\net8.0\Challeng.C671C4B8.Up2Date
