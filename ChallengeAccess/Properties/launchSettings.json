@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ChallengeAccess": {
+      "commandName": "Project",
+      "commandLineArgs": "--hotels \"C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\hotels.json\" --bookings \"C:\\Users\\elvis\\Desktop\\DataEngineering\\ChallengeAccess\\ChallengeAccess\\bookings.json\"\r\n"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\obj\Debug\net8.0\ChallengeAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\obj\Debug\net8.0\ChallengeAccess.AssemblyInfoInputs.cache
+C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\obj\Debug\net8.0\ChallengeAccess.AssemblyInfo.cs
+C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\obj\Debug\net8.0\ChallengeAccess.csproj.CoreCompileInputs.cache
+C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\bin\Debug\net8.0\ChallengeAccess.exe
+C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\bin\Debug\net8.0\ChallengeAccess.deps.json
+C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\bin\Debug\net8.0\ChallengeAccess.runtimeconfig.json
+C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\bin\Debug\net8.0\ChallengeAccess.dll
+C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\bin\Debug\net8.0\ChallengeAccess.pdb
+C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\obj\Debug\net8.0\ChallengeAccess.dll
+C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\obj\Debug\net8.0\refint\ChallengeAccess.dll
+C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\obj\Debug\net8.0\ChallengeAccess.pdb
+C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\obj\Debug\net8.0\ChallengeAccess.genruntimeconfig.cache
+C:\Users\elvis\Desktop\DataEngineering\ChallengeAccess\ChallengeAccess\obj\Debug\net8.0\ref\ChallengeAccess.dll
